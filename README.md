@@ -1,6 +1,5 @@
-# django-doctor-appointment
 
-Doctor appointment application using django
+### Health Plus
 
 ### Live : [Demo](https://HealthPlus-11.herokuapp.com/)
 
